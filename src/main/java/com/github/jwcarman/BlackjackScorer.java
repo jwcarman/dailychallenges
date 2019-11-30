@@ -47,7 +47,6 @@ public class BlackjackScorer {
     }
 
     private static int sumOf(List<String> cards) {
-
         int score = cards.stream().mapToInt(CARD_VALUES::get).sum();
         log.debug("Scoring of {} = {}", cards, score);
         return score;

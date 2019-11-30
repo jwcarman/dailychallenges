@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <name>Daily Challenges</name>
-    <description>Solutions to dev.to daily challenges</description>
+    <description>Solutions to The Practical Dev daily challenges</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
