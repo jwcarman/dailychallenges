@@ -1,0 +1,5 @@
+# Daily Challenges 
+
+This repository contains solutions to the [The Practical Dev](https://dev.to/thepracticaldev/) daily challenges.
+
+128 - [Blackjack Scorer](https://dev.to/thepracticaldev/daily-challenge-128-blackjack-scorer-4lhp)
